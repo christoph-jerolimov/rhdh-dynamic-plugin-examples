@@ -32,8 +32,10 @@ node_modules/
 .env.test
 
 # Build output
+deploy/*.tgz
 dist
 dist-types
+.webpack-cache
 
 # Temporary change files created by Vim
 *.swp
